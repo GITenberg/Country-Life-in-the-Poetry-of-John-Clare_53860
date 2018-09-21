@@ -1,11 +1,16 @@
 _repo: Country-Life-in-the-Poetry-of-John-Clare_53860
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Coen, Mildred M.
     gutenberg_agent_id: '47583'
     url: http://www.gutenberg.org/2009/agents/47583
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53860#Country-Life-in-the-Poetry-of-John-Clare
 gutenberg_issued: '2017-01-01'
 gutenberg_type: Text
 identifiers:
